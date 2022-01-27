@@ -1,0 +1,15 @@
+{
+  "name": "simple-scraping",
+  "version": "1.0.0",
+  "description": "Exemple de scraping simple avec nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " RoXxIV ",
+  "license": "ISC",
+  "dependencies": {
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^13.1.2"
+  }
+}
